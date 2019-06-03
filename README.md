@@ -2,5 +2,5 @@
 
 Demo
 ![] (demo/demo1.gif)
-![] (demo/demo2gif)
-![] (demo/demo3gif)
+![] (demo/demo2.gif)
+![] (demo/demo3.gif)
