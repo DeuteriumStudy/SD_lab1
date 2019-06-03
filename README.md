@@ -1,6 +1,6 @@
 # Laboratory work 1
 
 Demo
-![] (demo/demo1.gif)
-![] (demo/demo2.gif)
-![] (demo/demo3.gif)
+![Demo1] (demo/demo1.gif)
+![Demo2] (demo/demo2.gif)
+![Demo3] (demo/demo3.gif)
